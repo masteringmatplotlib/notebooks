@@ -1,2 +1,5 @@
-# notebooks
-Notebook index for Mastering matplotlib
+# Notebook Index for Mastering matplotlib
+
+## Chapters
+
+## Supplemental
