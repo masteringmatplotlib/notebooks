@@ -1,5 +1,8 @@
 # Notebook Index for Mastering matplotlib
 
+* [Book on Packt's site](https://www.packtpub.com/big-data-and-business-intelligence/mastering-matplotlib)
+* [On Amazon](http://www.amazon.com/dp/1783987545/)
+
 ## Chapters
 
 ### nbviewer
